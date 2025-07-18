@@ -3,7 +3,7 @@ AD User Exporter
 
 
 
-# 🧑‍💻 AD User Exporter - by X1 (v0.2.5)
+# 🧑‍💻 AD User Exporter - by X1 (v0.2.6)
 
 A modern PowerShell tool for exporting **Active Directory active users**, with intelligent filtering to produce clean, audit-ready user lists.
 
