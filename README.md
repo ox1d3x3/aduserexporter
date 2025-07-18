@@ -1,7 +1,3 @@
-# aduserexporter
-AD User Exporter
-
-
 
 # 🧑‍💻 AD User Exporter - by X1 (v0.2.6)
 
